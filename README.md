@@ -130,11 +130,5 @@ GitHub: https://github.com/deepankk2004
 ## License
 This project is for educational purposes only.
 
----
-
-## Screenshots
-(Add project screenshots here later)
-- Home Page
-- Product Page
 - Cart Page
 - Checkout Page
